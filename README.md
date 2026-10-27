@@ -5,7 +5,9 @@ while I was at boba bash delhi this game came in my mind as i was recently pract
 To summarise it all folkygame is a python game operating on the principles of a menu driven program it is a linguistic quiz based game which caters to the halloween spirit while also checking the linguistic knowledge of a person made by me at boba bash delhi for submission in the 3 a.m. hackclub program.
 
 THE GAME TAKES PLACE IN 4 STAGES ALL FILLED WITH THEIR FAIR SHARE OF SPOOKINESS:-
-STAGE 1:- THE WORD
+
+* STAGE 1:- THE WORD:-
 THE FIRST STAGE MAKES THE PLAYER GUESS THE WORD THAT HAS BEEN ENGRAVED INTO THE WORLD OF HORROR BY ONE OF THE MOST POPULAR AUTHORS IN THE GENRE AND ALSO ONE WHO REDEFINED WHAT HORROR MEANT FOR THE WORLD.
-STAGE 2:-
+
+* STAGE 2:-
 
