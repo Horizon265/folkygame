@@ -19,4 +19,4 @@ STAGE 3 ASKS PLAYER ABOUT WHAT IS POTENTIALLY THE MOST FAMOUS NOVEL IN ALL OF HO
 *SYAGE 4:-MACBETH:-
 THE GAME ASKS THE PLAYER TO IDENTIFY THE OLAYWRIGHT FOR MACBETH A TRAGIC BUT WORLDWIDE FAMOUS PLAY FOR IT'S DEPTH AND STORYTELLING 
 
-*Hope you have fun playing folkygame as it took me quite some time to write it not because of the literary knowlegde needed but because idendation hates me thank you.
+*Hope you have fun playing folkygame as it took me quite some time to write it not because of the literary knowlegde needed but because idendation hates me as it was the most problemetic part for me in writing the code for this game thank you.
